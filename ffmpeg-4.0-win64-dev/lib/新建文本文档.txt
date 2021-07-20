@@ -1,0 +1,17 @@
+avcodec.lib
+avdevice.lib
+avfilter.lib
+avformat.lib
+avutil.lib
+postproc.lib
+swresample.lib
+swscale.lib
+
+
+D:\win10\env\ffmpeg-4.0-win64-dev\lib
+D:\win10\env\ffmpeg-4.0-win64-dev\include
+
+D:\win10\env\ffmpeg-4.0-win64-dev\bin
+
+
+
